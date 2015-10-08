@@ -11,7 +11,10 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo(':(');
+        echo(':-)');
+        echo(':-(');
+        echo(':-)');
+        echo(':-(');
         ?>
     </body>
 </html>
